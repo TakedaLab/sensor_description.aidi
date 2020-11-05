@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(aip_axio_description)
+project(aip_aidi_description)
 
 find_package(catkin REQUIRED)
 
